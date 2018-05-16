@@ -55,7 +55,4 @@ $$
 其中, $\hat{p}(\tau)$是施加控制能够获得的轨迹概率，$p(\tau)$是理想最优轨迹的概率，使KL最小的是最优策略。寻找这个定义的本来面目
 
 我们这个是可以
-\begin{eqnarray*}
-p(\tau) & = & p(\mathcal{O}_{t}=1|s_{t},a_{t})=\exp(r(s_{t},a_{t}))\\
- & =
-\end{eqnarray*}
+$$p(\tau)  =  p(\mathcal{O}_{t}=1|s_{t},a_{t})=\exp(r(s_{t},a_{t}))$$
