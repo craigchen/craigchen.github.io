@@ -8,7 +8,7 @@ Bayes学派的基本观点是把概率看成一种信念(Belief), 而信念传�
 参考 [Quora](https://www.quora.com/How-do-you-explain-the-belief-propagation-algorithm-in-Bayesian-networks) 中的例子，以期对这个问题有清晰的阐释。在概率图模型中变量节点(Variable
 Node)和因子节点(Factor Node)的概念，用机器学习中的讲法分别对应简单节点和特征(Feature)。假设有一例子，有三个简单节点A、B、C和两个特征F1,F2.
 已知$F_{1}(A,B)$和$F_{2}(B,C)$. 希望能计算出$P(A)$, $P(B)$, $P(C)$. 概率图和赋值如图所示:
-![belief](Belief-propagation.jpeg "BP-example")
+![belief](image/Belief-propagation.jpeg "BP-example")
 
 
 如果不用BP方法,
