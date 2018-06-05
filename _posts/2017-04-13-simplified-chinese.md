@@ -12,6 +12,9 @@ lang: zh-Hans
 
 <!--more-->
 
+详细内容见[细节](_sub_posts/2018-06-05-detail.md)
+
+
 **front matter:**
 
     ---
