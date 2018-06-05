@@ -1,3 +1,12 @@
+---
+layout: post
+category: Document
+tags:
+- math
+- statistic
+---
+
+
 # Belief Propagation
 
 Bayes学派的基本观点是把概率看成一种信念(Belief), 而信念传播(Belief Propagation)是一种优雅的方法。BP
